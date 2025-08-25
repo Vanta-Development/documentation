@@ -20,6 +20,7 @@ export default {
         text: "Products",
         items: [
           { text: "Vanta Panel", link: "/panel/intro" },
+          { text: "Vanta Fivem", link: "/fivem/intro" },
         ],
       },
     ],
@@ -45,6 +46,14 @@ export default {
           { text: "Introduction", link: "/panel/intro" },
         ],
       },
+            {
+        text: "Vanta Fivem",
+        collapsible: true,
+        items: [
+          { text: "Introduction", link: "/fivem/intro" },
+          { text: "Setup", link: "/fivem/setup" },
+        ],
+      },
     ],
     // you can disable the previous and next page here
     docFooter: {
@@ -52,7 +61,7 @@ export default {
       next: true,
     },
     editLink: {
-      pattern: 'https://github.com/versa-development/documentation/edit/production/docs/:path',
+      pattern: 'https://github.com/vantadevelopment/documentation/edit/production/docs/:path',
       text: 'Edit this page on GitHub'
     },
     footer: {
