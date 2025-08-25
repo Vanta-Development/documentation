@@ -8,7 +8,7 @@
 Use this command below to clone the documentation locally.
 
 ```bash
-git clone https://github.com/versa-development/documentation.git
+git clone https://github.com/vantadevelopment/documentation.git
 
 cd documenation
 
