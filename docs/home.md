@@ -6,7 +6,7 @@ We create powerful tools for Discord server management. Our current focus is on 
 - [Vanta Panel](./panel/intro)
 
 ## 🤝 Contributing
-This documentation is [open-source](https://github.com/versa-development/documentation) — and you’re invited to contribute!
+This documentation is [open-source](https://github.com/vantadevelopment/documentation) — and you’re invited to contribute!
 
 Whether you’re fixing a typo, improving examples, or writing new sections, every bit helps. Check out our GitHub repository  to get started.
 

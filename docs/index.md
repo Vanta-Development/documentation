@@ -15,16 +15,16 @@ hero:
       link: /home
     - theme: alt
       text: View on GitHub
-      link: https://github.com/versa-development/documentation
+      link: https://github.com/vantadevelopment/documentation
 
 # Features section
 features:
   - icon: 💻
     title: <a href="/panel/intro">Vanta Panel</a>
     details: The Advantage Every Discord Mod Needs.
-  - icon: 👀
-    title: Coming Soon
-    details: Coming Soon
+  - icon: 🎮
+    title: <a href="/fivem/intro">Vanta Fivem</a>
+    details: The Edge Every FiveM Admin Wants.
   - icon: 👀
     title: Coming Soon
     details: Coming Soon
