@@ -61,7 +61,7 @@ export default {
       next: true,
     },
     editLink: {
-      pattern: 'https://github.com/vantadevelopment/documentation/edit/production/docs/:path',
+      pattern: 'https://github.com/vantadevelopment/documentation/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     },
     footer: {
