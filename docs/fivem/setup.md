@@ -13,7 +13,7 @@
 * A Discord account with admin access to your server if you want Discord integration.
 
 ### Browser Requirements
-* Modern web browser (Chrome, Firefox, Edge).
+* Modern web browser (Chrome, Firefox, Edge, Safari).
 * Cookies enabled for session persistence.
 
 ### Optional Requirements
