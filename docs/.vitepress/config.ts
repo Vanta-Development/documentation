@@ -28,7 +28,7 @@ export default {
     socialLinks: [
       { icon: "github", link: "https://github.com/vantadevelopment" },
       { icon: "twitter", link: "#" },
-      { icon: "youtube", link: "#" },
+      { icon: "youtube", link: "https://www.youtube.com/@vantadevelopment" },
       { icon: "discord", link: "https://discord.gg/wgF5mRyCgW" },
       /* {
         icon: {
