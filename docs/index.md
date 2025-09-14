@@ -22,7 +22,7 @@ features:
   - icon: 💻
     title: <a href="/panel/intro">Vanta Panel</a>
     details: The Advantage Every Discord Mod Needs.
-  - icon: 🎮
+  - icon: 🔫
     title: <a href="/fivem/intro">Vanta Fivem</a>
     details: The Edge Every FiveM Admin Wants.
   - icon: 👀
