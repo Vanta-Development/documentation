@@ -4,6 +4,7 @@ We create powerful tools for Discord server management. Our current focus is on 
 
 ## 📚 Product Documentation
 - [Vanta Panel](./panel/intro)
+- [Vanta Fivem](./fivem/intro)
 
 ## 🤝 Contributing
 This documentation is [open-source](https://github.com/vantadevelopment/documentation) — and you’re invited to contribute!
@@ -12,4 +13,4 @@ Whether you’re fixing a typo, improving examples, or writing new sections, eve
 
 ## 🔗 Useful Links
 * 🏠 [Vanta Development](https://vantabot.pages.dev)
-* 💬 [Discord Server](https://discord.gg/FsrujTDbvg)
+* 💬 [Discord Server](https://discord.gg/P7VvM6H8wd)
