@@ -13,7 +13,9 @@
   "author": "",
   "license": "CC-BY-4.0",
   "dependencies": {
-    "vitepress": "^1.6.3",
     "vue": "^3.4.21"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
   }
 }

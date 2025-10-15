@@ -44,6 +44,7 @@ export default {
         collapsible: true,
         items: [
           { text: "Introduction", link: "/panel/intro" },
+          { text: "Setup", link: "/panel/setup" },
         ],
       },
             {
