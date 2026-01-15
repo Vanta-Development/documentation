@@ -6,7 +6,7 @@
 * A FiveM server running the latest [FXServer](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/).
 * RCON enabled for remote commands (you’ll need the password).
 * Internet access for the server to communicate with Vanta.
-* A database server like xampp or mariaDB which is what i recommend.
+* A database server like xampp or mariaDB which is recommended for ease of use.
 
 ### Account Requirements
 * A Vanta account (sign up on the Vanta portal).
@@ -53,12 +53,12 @@ To set up your FiveM server for use with the Vanta management panel, follow thes
    - This will open a browser window at [http://localhost:4020](http://localhost:4020).  
    - Follow the on-screen setup instructions to configure your server.  
 
-💡 *Optional:* If you’d like a walkthrough, check out [this video tutorial](https://youtu.be/JzQvffMFWGM?si=QpHWYrxN0ci8PSq6). This is for
+💡 *Optional:* If you’d like a walkthrough, check out [this video tutorial](https://youtu.be/JzQvffMFWGM?si=QpHWYrxN0ci8PSq6). 
 
 ---
 
 ✅ If you completed everything correctly, your FiveM server is now running!  
-In the next section, we’ll guide you through setting up the **Vanta management panel** to connect with your server.
+In the next section, we’ll guide you through setting up the ```Vanta management panel``` to connect with your server.
 
 
 ## Vanta Panel Setup (Local Hosting)
@@ -109,7 +109,7 @@ In the base folder, make a new folder and call it [vanta] this is where all yor 
 
 Next, go to our [Github](https://github.com/vantadevelopment) and download vanta_api. Put that into your [vanta] folder.
 
-Then, go to your server.cfg and under the Extra stuff section where you see stuff like ensure [standalone] ensure [voice] ensure[assets], type ``ensure [versa]`` at the end of the list.
+Then, go to your server.cfg and under the Extra stuff section where you see stuff like ensure [standalone] ensure [voice] ensure[assets], type ``ensure [vanta]`` at the end of the list.
 
 ### 2. Configure the API
 

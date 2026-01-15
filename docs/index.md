@@ -8,7 +8,7 @@ hero:
   image:
     src: /logo-big.png
     alt: Vanta logo
-  tagline: Powering Discord Communities with Scalable Enterprise Solutions
+  tagline: Powering Communities with Scalable Enterprise Solutions
   actions:
     - theme: brand
       text: View Documentation
