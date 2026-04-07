@@ -7,16 +7,19 @@ export default defineConfig({
   cleanUrls: true,
   ignoreDeadLinks: true,
 
+  markdown: {
+    theme: "material-theme-palenight",
+    lineNumbers: true,
+  },
+
   themeConfig: {
     logo: "/logo-big.png",
     siteTitle: "Vanta",
 
-    // Search config
     search: {
       provider: "local",
     },
 
-    // Navbar Links
     nav: [
       { text: "Home", link: "/" },
       { text: "Discord", link: "https://discord.gg/wgF5mRyCgW" },
@@ -29,7 +32,6 @@ export default defineConfig({
       },
     ],
 
-    // Social Links
     socialLinks: [
       { icon: "github", link: "https://github.com/vantadevelopment" },
       { icon: "twitter", link: "https://x.com/VantaDev" },
@@ -37,12 +39,11 @@ export default defineConfig({
       { icon: "discord", link: "https://discord.gg/wgF5mRyCgW" },
     ],
 
-    // Sidebar with collapsible groups
     sidebar: [
       {
         text: "Vanta Panel",
         collapsible: true,
-        collapsed: false, // default open
+        collapsed: false,
         items: [
           { text: "Introduction", link: "/panel/intro" },
           { text: "Setup", link: "/panel/setup" },
@@ -59,35 +60,22 @@ export default defineConfig({
       },
     ],
 
-    // Footer
     footer: {
       message: "",
       copyright: "Copyright © 2025 Vanta Development",
     },
 
-    // Doc Footer navigation
     docFooter: {
       prev: false,
       next: true,
     },
 
-    // Edit link
     editLink: {
       pattern: 'https://github.com/vantadevelopment/documentation/edit/main/docs/:path',
       text: 'Edit this page on GitHub'
     },
 
-    // Markdown settings
-    markdown: {
-      theme: "material-palenight",
-      lineNumbers: true,
-    },
-
-    // Mobile labels
     returnToTopLabel: 'Go to Top',
     sidebarMenuLabel: 'Menu',
   },
-
-  // Custom theme folder (only import CSS, don't override theme JS)
-  theme: './theme', // your theme folder must have index.ts importing DefaultTheme + custom.css
 })
