@@ -25,12 +25,7 @@ features:
   - icon: 🔫
     title: <a href="/fivem/intro">Vanta Fivem</a>
     details: The Edge Every FiveM Admin Wants.
-  - icon: 👀
-    title: Coming Soon
-    details: Coming Soon
-  - icon: 👀
-    title: Coming Soon
-    details: Coming Soon
+  
 
 # Meta property
 head:
